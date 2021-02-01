@@ -1,0 +1,25 @@
+.btn {
+    outline: none;
+    cursor: pointer;
+    opacity: .7;
+    transition: .1s;
+}
+.btn:hover {
+    opacity: 1;
+}
+.btn.edit {
+    color: #458ef4;
+}
+.btn.delete {
+    color: #FF5363;
+}
+.btn.save {
+    color: #33A61B;
+}
+.btn.undo {
+    color: #FF5363;
+}
+
+.btn.arrow {
+    color: #5acafd;
+}
